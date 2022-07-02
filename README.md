@@ -11,3 +11,4 @@ Codebase to show how to do ML for trading, data analysis, algo trading etc from 
 - There are a few utility scripts to be run from the host machine. Like the following. They will help to clean up sometimes.
     - ./bin/clean_containers.sh
     - ./bin/scan_8888.sh
+    - ./bin/run_container.sh
