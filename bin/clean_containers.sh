@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker -q rm -f $(docker ps -aq)
+docker rm -f "$(docker ps -aq)"
