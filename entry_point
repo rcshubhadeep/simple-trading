@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ "$1" == "app" ]; then
+   echo "Running app"
+
+elif [ "$1" == "notebook" ]; then
+   jupyter notebook --allow-root --ip 0.0.0.0 --no-browser
+
+else
+   echo "Command not recognized"
+fi
