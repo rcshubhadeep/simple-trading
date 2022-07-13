@@ -34,3 +34,5 @@ Codebase to show how to do ML for trading, data analysis, algo trading etc from 
 - Create an English like language to to backtest based on price-action or similar things
 - Add Deep RL capabilities (Specifically FinRL)
 - More??
+
+Some addition
